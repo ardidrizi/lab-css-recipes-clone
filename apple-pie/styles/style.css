@@ -40,7 +40,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 500px;
-  background-image: url(../images/apple-pie.jpg);
+  background-image: url("../images/apple-pie.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h1 {
